@@ -1,2 +1,2 @@
 # You-Tube
-### Responsive page using html and tailwindcss.
+Responsive page using html and tailwindcss.
